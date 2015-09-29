@@ -1,0 +1,19 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"480",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"looping":"true",
+				"templates":"source://view/tuijian/slide_01.ui,source://view/tuijian/slide_02.ui,source://view/tuijian/slide_03.ui,source://view/tuijian/slide_04.ui,source://view/tuijian/slide_05.ui,source://view/tuijian/slide_06.ui",
+				"width":"480",
+				"id":"myslide",
+				"type":"do_SlideView",
+				"height":"225"
+			}
+		],
+		"height":"225"
+	}
+}

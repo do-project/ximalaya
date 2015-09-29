@@ -1,0 +1,38 @@
+[
+    {
+        "template":0,
+        "title":"新晋主播"
+	},{
+    	"template":1,
+    	"img1" : "source://image/zhubo/1.png",
+    	"img2" : "source://image/zhubo/2.png",
+    	"img3" : "source://image/zhubo/3.png",
+    	"title1" : "管理心里...",
+    	"title2" : "闻佳读品",
+    	"title3" : "虎嗅网"
+	},{
+    	"template":0,
+    	"title":"新闻"
+	},{
+    	"template":1,
+    	"img1" : "source://image/zhubo/4.png",
+    	"img2" : "source://image/zhubo/5.png",
+    	"img3" : "source://image/zhubo/6.png",
+    	"title1" : "湖北之声...",
+    	"title2" : "DJ小不",
+    	"title3" : "界面新闻"
+	},
+    {
+        "template":0,
+        "listname_0":"有声小说"
+    },
+    {
+    	"template":1,
+    	"img1" : "source://image/zhubo/7.png",
+    	"img2" : "source://image/zhubo/8.png",
+    	"img3" : "source://image/zhubo/9.png",
+    	"title1" : "泡芙先生_",
+    	"title2" : "隽语配音...",
+    	"title3" : "丹丘生一..."
+    }
+]

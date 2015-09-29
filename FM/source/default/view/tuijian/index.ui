@@ -1,0 +1,19 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"480",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"isHeaderVisible":"true",
+				"templates":"source://view/tuijian/slide_index.ui,source://view/tuijian/listview_01.ui,source://view/tuijian/listview_02.ui,source://view/tuijian/listview_03.ui,source://view/tuijian/listview_04.ui,source://view/tuijian/listview_05.ui,source://view/tuijian/listview_06.ui",
+				"width":"480",
+				"id":"mylistview",
+				"type":"do_ListView",
+				"height":"600"
+			}
+		],
+		"height":"854"
+	}
+}

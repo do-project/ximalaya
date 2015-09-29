@@ -1,0 +1,19 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"480",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"isHeaderVisible":"true",
+				"templates":"source://view/bangdan/listview_01.ui,source://view/bangdan/listview_02.ui,source://view/bangdan/listview_03.ui",
+				"width":"480",
+				"id":"mylistview",
+				"type":"do_ListView",
+				"height":"600"
+			}
+		],
+		"height":"854"
+	}
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "template":0
+	},{
+    	"template":1,
+    	"title":"节目榜单"
+	},{
+    	"template":2,
+    	"img1" :"source://image/bangdan/2.png",
+    	"title1" :"最火节目飙升榜",
+    	"title2" :"1 端子来了 | 我想买套房, 隔...",
+    	"title3" :"2 【墨爸讲故事】 神奇书屋 1..."
+	},{
+    	"template":2,
+    	"img1" :"source://image/bangdan/3.png",
+    	"title1" :"最多收藏经典榜",
+    	"title2" :"1 逻辑思维 全集",
+    	"title3" :"2 无心法师--多人合播"
+	},
+    {
+        "template":2,
+    	"img1" :"source://image/bangdan/4.png",
+    	"title1" :"有声小说风云榜",
+    	"title2" :"1 刘心武揭秘红楼梦",
+    	"title3" :"2 货币战争"
+    },
+    {
+        "template":1,
+       	"title":"主播榜单"
+    },
+    {
+        "template":2,
+    	"img1" :"source://image/bangdan/5.png",
+    	"title1" :"天声尤物女神榜",
+    	"title2" :"1 我是小姿",
+    	"title3" :"2 叶子的音乐纪念册"
+    },
+    {
+        "template":2,
+        "img1" :"source://image/bangdan/6.png",
+    	"title1" :"优声优色男神榜",
+    	"title2" :"1 李剑飞教书匠",
+    	"title3" :"2 桢铭time"
+    },
+    {
+        "template":2,
+    	"img1" :"source://image/bangdan/7.png",
+    	"title1" :"后生可畏新人榜",
+    	"title2" :"1 我是又晴",
+    	"title3" :"2 DJ小科"
+    }
+]

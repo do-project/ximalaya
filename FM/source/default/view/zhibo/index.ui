@@ -1,0 +1,19 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"480",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"isHeaderVisible":"true",
+				"templates":"source://view/zhibo/listview_01.ui,source://view/zhibo/listview_02.ui,source://view/zhibo/listview_03.ui,source://view/zhibo/listview_04.ui,source://view/zhibo/listview_05.ui",
+				"width":"480",
+				"id":"mylistview",
+				"type":"do_ListView",
+				"height":"600"
+			}
+		],
+		"height":"854"
+	}
+}

@@ -1,0 +1,43 @@
+[
+    {
+        "template":0
+	},
+	{
+   		"template":1,
+    	"title":"推荐电台"
+	},
+	{
+    	"template":3,
+    	"img1" :"source://image/zhibo/5.png",
+   	    "img2" :"source://image/zhibo/6.png",
+    	"img3" :"source://image/zhibo/7.png",
+    	"title1" :"浙江之声",
+    	"title2" :"海南音乐广播",
+    	"title3" :"上海第一财..."
+	},
+	{
+    	"template":2,
+    	"title":"排行榜"
+	},
+    {
+    	"template":4,
+    	"img1" :"source://image/zhibo/8.png",
+    	"title1" :"CNR中国之声",
+    	"title2" :"直播中: 央广新闻晚高峰",
+    	"title3" :"收听人数: 41.4万人"
+    },
+    {
+    	"template":4,
+    	"img1" :"source://image/zhibo/9.png",
+    	"title1" :"CNR音乐之声",
+    	"title2" :"直播中: 都会音乐",
+    	"title3" :"收听人数: 25.1万人"
+    },
+    {
+    	"template":4,
+    	"img1" :"source://image/zhibo/10.png",
+    	"title1" :"上海动感101",
+    	"title2" :"直播中:101娱乐在线",
+    	"title3" :"收听人数: 10万人"
+    }
+]

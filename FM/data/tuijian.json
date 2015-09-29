@@ -1,0 +1,93 @@
+[
+    {
+        "template":0
+	},
+	{
+    	"template":1,
+    	"title":"小编推荐"
+	},
+	{
+    	"template":2,
+    	"img1" : "source://image/tuijian/7.png",
+    	"title1" :"女王不在家，女神（经）...",
+    	"img2" : "source://image/tuijian/8.png",
+    	"title2" :"刘若英 和孤独相处",
+    	"img3" : "source://image/tuijian/9.png",
+    	"title3" :"深入骨髓的恐惧，鬼话连篇"
+	},
+	{
+    	"template":1,
+    	"title":"精品听单"
+	},
+    {
+        "template":4,
+    	"img1" : "source://image/tuijian/10.png",
+    	"title1" :"李总理推荐过的六本书，...",
+    	"title2" :"没时间读书？不知道读什么书...",
+    	"title3" :"5张专辑"
+    },
+    {
+        "template":4,
+   		"img1" : "source://image/tuijian/11.png",
+    	"title1" :"5部节奏让人窒息的谍战剧",
+    	"title2" :"“哦哟，这个智商太低了！”“哦，...",
+    	"title3" :"5张专辑"
+    },
+    {
+        "template":5,
+    	"title" :"发现新奇"
+    },
+    {
+        "template":3,
+    	"img1" : "source://image/tuijian/12.png",
+    	"title1" :"听友圈子",
+    	"title2" :"耳语，一句最能打动人的..."
+    },
+    {
+        "template":3,
+    	"img1" : "source://image/tuijian/13.png",
+    	"title1" :"活动",
+    	"title2" :"谁把罗胖挤到第二了？"
+    },
+    {
+        "template":3,
+    	"img1" : "source://image/tuijian/14.png",
+    	"title1" :"新声活商城",
+    	"title2" :"各种新奇的有声智能硬件"
+    },
+    {
+        "template":3,
+    	"img1" : "source://image/tuijian/15.png",
+    	"title1" :"酷音铃声",
+    	"title2" :"千万条精品铃声快来下载吧"
+    },
+    {
+    	"template":1,
+    	"title":"听脱口秀"
+    },
+    {
+    	"template":2,
+    	"img1" : "source://image/tuijian/16.png",
+    	"title1" :"只有一种人能改写历史",
+    	"img2" : "source://image/tuijian/17.png",
+    	"title2" :"西雅图特产垄断寡头",
+    	"img3" : "source://image/tuijian/18.png",
+    	"title3" :"其实，贱人并不是一句脏话"
+    },
+    {
+    	"template":1,
+    	"title":"听新闻"
+    },
+    {
+    	"template":2,
+    	"img1" : "source://image/tuijian/19.png",
+    	"title1" :"旧上海最时髦的公司和名媛",
+    	"img2" : "source://image/tuijian/20.png",
+    	"title2" :"博尔特赛后庆祝被摄像大...",
+    	"img3" : "source://image/tuijian/21.png",
+    	"title3" :"明星无隐私是狗仔的错吗？"
+    },
+    {
+        "template":6
+    }
+]

@@ -1,0 +1,37 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"480",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"width":"480",
+				"id":"do_ALayout_1",
+				"type":"do_ALayout",
+				"views":[
+					{
+						"width":"110",
+						"x":"30",
+						"fontSize":"24",
+						"id":"do_Label_1",
+						"text":"最新音乐",
+						"type":"do_Label",
+						"height":"50"
+					},
+					{
+						"width":"15",
+						"x":"13",
+						"y":"17",
+						"id":"do_ImageView_2",
+						"source":"source://image/tuijian/play.png",
+						"type":"do_ImageView",
+						"height":"18"
+					}
+				],
+				"height":"50"
+			}
+		],
+		"height":"50"
+	}
+}
